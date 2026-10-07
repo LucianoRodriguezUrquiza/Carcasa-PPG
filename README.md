@@ -1,8 +1,6 @@
 # Carcasa-PPG
 
-Repositorio de diseño mecánico de la carcasa wearable para el dispositivo PPG desarrollado en el marco del Taller de Bioingeniería.
-
-El objetivo de este repositorio es centralizar los archivos CAD editables, modelos de intercambio, archivos para impresión 3D, planos, referencias y versiones del diseño.
+Repositorio de diseño de la carcasa
 
 ## Estructura
 
@@ -20,10 +18,9 @@ Para cada versión relevante de la carcasa se recomienda conservar, cuando corre
 1. El archivo CAD editable.
 2. Una exportación STEP.
 3. Una exportación STL para impresión 3D.
-4. El plano o documento de medidas asociado.
-
-Los integrantes del equipo pueden trabajar mediante ramas y pull requests para mantener trazabilidad de los cambios.
 
 ## Estado
 
 Proyecto en desarrollo.
+
+## Commit: 09ce84394791f8c3d8e29be58539d93929e9ace6
