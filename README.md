@@ -8,8 +8,6 @@ Repositorio de diseño de la carcasa
 - `STEP/`: modelos en formato STEP para intercambio entre programas CAD.
 - `STL/`: archivos destinados a impresión 3D.
 - `Planos/`: planos, cotas, medidas y documentación técnica.
-- `Referencias/`: imágenes, bocetos y material de referencia.
-- `Versiones/`: versiones históricas y prototipos del diseño.
 
 ## Flujo de trabajo
 
