@@ -1,10 +1,5 @@
 # CAD
 
-Guardar aquí los archivos editables del diseño de la carcasa.
+Aquí se almacenan los archivos editables del diseño de la carcasa realizados en Autodesk Fusion 360.
 
-Ejemplos:
-- Archivos nativos de Fusion 360.
-- Ensambles.
-- Componentes editables.
-
-Evitar sobrescribir versiones importantes sin conservar un historial identificable.
+El archivo principal puede conservarse, por ejemplo, en formato `.f3d`, para poder seguir modificando croquis, cotas, extrusiones, alojamientos y demás elementos del diseño.

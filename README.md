@@ -1,24 +1,19 @@
 # Carcasa-PPG
 
-Repositorio de diseño de la carcasa
+Repositorio de diseño de la carcasa wearable para el dispositivo PPG.
 
 ## Estructura
 
-- `CAD/`: archivos editables y nativos del diseño CAD.
-- `STEP/`: modelos en formato STEP para intercambio entre programas CAD.
-- `STL/`: archivos destinados a impresión 3D.
-- `Planos/`: planos, cotas, medidas y documentación técnica.
+- `CAD/`: archivo editable del diseño realizado en Autodesk Fusion 360, por ejemplo en formato `.f3d`.
+- `STL/`: archivos exportados desde Fusion 360 para impresión 3D.
+- `Referencias/`: imágenes, bocetos, medidas y otros materiales utilizados como referencia durante el diseño.
 
 ## Flujo de trabajo
 
-Para cada versión relevante de la carcasa se recomienda conservar, cuando corresponda:
+El diseño se modifica desde el archivo editable de Fusion 360 almacenado en `CAD/`. Cuando una pieza queda lista para fabricar, se exporta en formato STL y se guarda en `STL/`.
 
-1. El archivo CAD editable.
-2. Una exportación STEP.
-3. Una exportación STL para impresión 3D.
+La carpeta `Referencias/` se utiliza para conservar material visual o dimensional útil para el desarrollo de la carcasa.
 
 ## Estado
 
 Proyecto en desarrollo.
-
-## Commit: 09ce84394791f8c3d8e29be58539d93929e9ace6

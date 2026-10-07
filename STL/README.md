@@ -1,5 +1,5 @@
 # STL
 
-Guardar aquí los archivos `.stl` preparados para impresión 3D.
+Aquí se almacenan las piezas exportadas desde Autodesk Fusion 360 en formato `.stl` para impresión 3D.
 
-Cuando sea posible, indicar en el nombre del archivo la versión de la carcasa y la pieza correspondiente.
+Conviene usar nombres descriptivos para cada pieza, por ejemplo `Base.stl`, `Tapa.stl` o `Soporte_MAX30102.stl`.
