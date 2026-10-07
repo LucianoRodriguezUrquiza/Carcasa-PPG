@@ -4,9 +4,9 @@ Repositorio de diseño de la carcasa wearable para el dispositivo PPG.
 
 ## Estructura
 
-- `CAD: archivo editable del diseño realizado en Autodesk Fusion 360, por ejemplo en formato `.f3d`.
-- `STL: archivos exportados desde Fusion 360 para impresión 3D.
-- `Referencias: imágenes, bocetos, medidas y otros materiales utilizados como referencia durante el diseño.
+- CAD: archivo editable del diseño realizado en Autodesk Fusion 360, por ejemplo en formato `.f3d`.
+- STL: archivos exportados desde Fusion 360 para impresión 3D.
+- Referencias: imágenes, bocetos, medidas y otros materiales utilizados como referencia durante el diseño.
 
 ## Flujo de trabajo
 
