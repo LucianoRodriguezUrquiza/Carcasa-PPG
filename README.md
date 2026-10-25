@@ -1,19 +1,14 @@
-# Carcasa-PPG
+# Carcasa para dispositivo de monitoreo cardíaco
 
-Repositorio de diseño de la carcasa wearable para el dispositivo PPG.
+Carcasa diseñada para un dispositivo de monitoreo cardíaco mediante fotopletismografía (PPG). El diseño está compuesto por dos piezas, disponibles en formato STL para impresión 3D.
 
-## Estructura
+## Descargar los modelos
 
-- CAD: archivo editable del diseño realizado en Autodesk Fusion 360, por ejemplo en formato `.f3d`.
-- STL: archivos exportados desde Fusion 360 para impresión 3D.
-- Referencias: imágenes, bocetos, medidas y otros materiales utilizados como referencia durante el diseño.
+- **[Tapa superior — Carcasa_PPG_tapa.stl](Carcasa_PPG_tapa.stl)**
+- **[Base — Carcasa_PPG_base.stl](Carcasa_PPG_base.stl)**
 
-## Flujo de trabajo
+## Imágenes de la carcasa
 
-El diseño se modifica desde el archivo editable de Fusion 360 almacenado en `CAD/`. 
-Cuando una pieza queda lista para fabricar, se exporta en formato STL y se guarda en `STL/`.
-La carpeta `Referencias/` se utiliza para conservar material visual o dimensional útil para el desarrollo de la carcasa.
-
-## Estado
-
-Proyecto en desarrollo.
+| Tapa superior | Base |
+|:---:|:---:|
+| ![Vista de la tapa superior de la carcasa](Carcasa_PPG_tapa.png) | ![Vista de la base de la carcasa](Carcasa_PPG_base.png) |
